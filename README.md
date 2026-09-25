@@ -1,6 +1,5 @@
 # VeriStream Authenticator 🛡️
 > **Real-Time Deepfake Detection & Synthetic Content Firewall**
-> *Built for Perspectra Ideathon 2026 | Lokmanya Tilak College of Engineering*
 
 ![Digital India Act Compliant](https://img.shields.io/badge/Compliance-Digital%20India%20Act-blue)
 ![DPDP Compliant](https://img.shields.io/badge/Privacy-100%25%20On--Device%20DPDP-emerald)
